@@ -1,4 +1,4 @@
-# Grafana-monitoring <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="65"/> </a>
+# Grafana-monitoring <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="55" height="45"/> </a>
 This repository contains few Prometheus queries to monitor things
 
 # Note:
